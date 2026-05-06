@@ -1,3 +1,11 @@
 v2 in fle 2
 
 doing changes in master in github
+
+Pseudo code for Fibonacci sequence:
+
+function fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
